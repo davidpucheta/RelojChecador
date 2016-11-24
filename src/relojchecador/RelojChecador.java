@@ -29,6 +29,7 @@ public class RelojChecador extends Application {
         stage.setScene(scene);
         stage.setWidth(400.00);
         stage.setHeight(400.00);
+        stage.setResizable(false);
         stage.show();
 
         //Ventana WebCam
